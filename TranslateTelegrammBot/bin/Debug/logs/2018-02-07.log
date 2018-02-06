@@ -1,0 +1,22 @@
+2018-02-07 00:03:35.7953 ERROR    в Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__124`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в TranslateTelegrammBot.Program.<Bot_OnMessage>d__2.MoveNext() в F:\Programms\DotNet\TelegrammTranslateBot\new Translate Bot\TranslateTelegrammBot\TranslateTelegrammBot\Program.cs:строка 61Bad Request: message must be non-empty
+2018-02-07 00:04:12.3911 ERROR    в Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__124`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в TranslateTelegrammBot.Program.<Bot_OnMessage>d__2.MoveNext() в F:\Programms\DotNet\TelegrammTranslateBot\new Translate Bot\TranslateTelegrammBot\TranslateTelegrammBot\Program.cs:строка 61Bad Request: message must be non-empty
+2018-02-07 00:08:04.4987 ERROR    в Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__124`1.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в TranslateTelegrammBot.Program.<Bot_OnMessage>d__2.MoveNext() в F:\Programms\DotNet\TelegrammTranslateBot\new Translate Bot\TranslateTelegrammBot\TranslateTelegrammBot\Program.cs:строка 61Bad Request: message must be non-empty
+2018-02-07 00:13:45.9490 ERROR    в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   в System.Threading.Tasks.Task`1.get_Result()
+   в TranslateTelegrammBot.Program.<Bot_OnMessage>d__2.MoveNext() в F:\Programms\DotNet\TelegrammTranslateBot\new Translate Bot\TranslateTelegrammBot\TranslateTelegrammBot\Program.cs:строка 58Произошла одна или несколько ошибок.
